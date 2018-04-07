@@ -1,6 +1,6 @@
 <?php
 
-namespace Custom\CryptoImp;
+namespace Custom\CryptoImpl;
 
 
 use Virgil\CryptoApi\AccessTokenSigner as VirgilAccessTokenSigner;
